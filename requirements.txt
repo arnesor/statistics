@@ -1,0 +1,7 @@
+bokeh
+geopandas
+jupyter
+matplotlib
+numpy
+pandas
+wheel
