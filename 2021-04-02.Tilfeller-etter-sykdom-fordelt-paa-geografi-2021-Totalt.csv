@@ -1,7 +1,7 @@
-﻿Kilde: Meldingssystem for smittsomme sykdommer (MSIS), FHI;;;
-;;;
-;;;
-;Koronavirus med utbruddspotensial, Februar;Koronavirus med utbruddspotensial, Mars;Koronavirus med utbruddspotensial, Januar
+﻿"Kilde: Meldingssystem for smittsomme sykdommer (MSIS), FHI"
+
+
+"";"Koronavirus med utbruddspotensial, Februar";"Koronavirus med utbruddspotensial, Mars";"Koronavirus med utbruddspotensial, Januar"
 Alvdal;1;1;1
 Arendal;49;69;26
 Birkenes;5;18;0
@@ -61,7 +61,7 @@ Vennesla;22;5;19
 Vestre Slidre;0;2;0
 Vestre Toten;4;20;26
 Vågå;0;0;6
-Våler (Innlandet);0;29;4
+Våler (Hedmark);0;29;4
 Åmli;0;0;1
 Åmot;14;2;1
 Åseral;0;2;0
@@ -89,8 +89,8 @@ Hadsel;0;2;7
 Hamarøy;1;0;6
 Hareid;3;4;4
 Hemnes;3;1;0
-Herøy i M og R;1;2;6
-Herøy i Nordland;0;0;9
+Herøy (Møre og Romsdal);1;2;6
+Herøy (Nordland);0;0;9
 Hustadvika;2;2;7
 Kristiansund;5;6;33
 Leirfjord;1;0;1
@@ -159,7 +159,7 @@ Målselv;0;0;5
 Måsøy;8;2;0
 Nordkapp;0;0;1
 Nordreisa;1;0;0
-Oslo (k);2865;8462;3327
+Oslo;2865;8462;3327
 Porsanger;0;1;0
 Randaberg;7;17;22
 Salangen;0;0;1
@@ -315,7 +315,7 @@ Sigdal;1;0;46
 Skiptvet;2;22;2
 Ullensaker;194;550;207
 Vestby;21;100;52
-Våler (Viken);8;15;31
+Våler (Østfold);8;15;31
 Ål;0;1;1
 Ås;38;136;81
 Øvre Eiker;23;45;36

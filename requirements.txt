@@ -3,5 +3,6 @@ geopandas
 jupyter
 matplotlib
 numpy
+openpyxl
 pandas
 wheel
