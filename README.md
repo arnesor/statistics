@@ -1,2 +1,2 @@
-# statistics
-Jypyter notebooks for statistics from Norway
+# Statistics
+Jupyter notebooks for statistics from Norway.
