@@ -19,6 +19,13 @@ Install dependencies from requirements.txt:
 pip install -r requirements.txt
 ```
 
+This is a dummy change for demonstration purposes.
+You can also use the pipenv tool, like this:
+```shell
+pipenv install -r requirements.txt
+```
+
+
 ## Running tests
 Install dependencies (from root directory):
 ```shell
